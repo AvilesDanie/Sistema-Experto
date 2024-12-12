@@ -1,1 +1,3 @@
 # Sistema-Experto
+Es importante que antes de inicializar el proyecto en nuestro caso en visual studio code, se debe abrir un cmd y ejecutar el siguiente comando “pip install pyswip” esto para instalar la librería que nos permite realizar las consultas al pl desde Python.
+Una vez realizado este paso, ya se puede proceder a abrir la carpeta desde visual studio code y seguidamente ejecutar el archivo que se llama “buscar_minerales.py”.
